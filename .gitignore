@@ -1,0 +1,6 @@
+# Visual Studio Code
+/.vscode
+/build
+
+# Larger files stored on CDNs and downloaded automatically.
+/assets

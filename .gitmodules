@@ -1,0 +1,3 @@
+[submodule "lib/layman"]
+	path = lib/layman
+	url = https://github.com/nitrix/layman
